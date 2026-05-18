@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Project Workflow
 1. Data Collection
 2. Data Preprocessing
-3. Exploratory Data Analysis(EDA)
+3. Exploratory Data Analysis (EDA)
 4. Feature Scaling
 5. Handling Imbalanced Data using SMOTE
 6. Model Training
